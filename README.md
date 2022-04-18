@@ -1,6 +1,7 @@
 ### Hello there, I'm Andy Cao
 #### Design and Animation
 ![Design and Animation](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhce3Z1XmWckeiw1bicBWCaJUkkDuk6Hik9FpYu9ZvJq9mMwJnKHVC0Wgf58l2bMIeTwv9cnGwA8-QsKzCWwcehEA3Vk3-kSbLsQA7FlBhLBQPgo80e-rw1aF7ZOfd1ncSX_muvCnro9NJwyFGCzy-p07WykOwwchRQoa2Hr14i0QnCJQNoM14Dn6Sv/w515-h214/Drawing-25.sketchpad.png)
+![Andy Cao](https://user-images.githubusercontent.com/103854644/163737624-04778709-ece9-4c41-b84c-a4b6b80e490d.gif)
 
 I'm Andy Cao from California, USA, and I create models and animations using Blender and ROBLOX Studio. I'm currently a student learning how to create high-quality creations. 
 

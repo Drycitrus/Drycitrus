@@ -5,7 +5,7 @@
 
 I'm Andy Cao from California, USA, and I create models and animations using Blender and ROBLOX Studio. I'm currently a student learning how to create high-quality creations. 
 
-Skills: Modeling, Lighting, Developing
+Skills: Modeling, Lighting, Developing, and Visual Design
 
 - 🔭 I’m currently working on this page.I’m currently working on Developing my skills in 3D Modeling, Animating, and Designing  
 - 🌱 I’m currently learning I’m currently learning how to use Blender to Animate 
